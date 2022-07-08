@@ -9,6 +9,10 @@ namespace ConsoleClientAD.MSAL
     {
         public string access_token { get; set; }
     }
+    
+    /// <summary>
+    /// https://docs.microsoft.com/pt-pt/azure/active-directory/develop/scenario-desktop-overview
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
