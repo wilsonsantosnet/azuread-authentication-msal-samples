@@ -12,6 +12,8 @@ namespace ConsoleClientAD.MSAL
     
     /// <summary>
     /// https://docs.microsoft.com/pt-pt/azure/active-directory/develop/scenario-desktop-overview
+    /// https://docs.microsoft.com/pt-pt/azure/active-directory/develop/scenario-desktop-app-configuration?tabs=dotnet
+    /// https://docs.microsoft.com/pt-pt/azure/active-directory/develop/scenario-desktop-acquire-token-interactive?tabs=dotnet
     /// </summary>
     class Program
     {
