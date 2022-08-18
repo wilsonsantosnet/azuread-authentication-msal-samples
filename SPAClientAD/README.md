@@ -1,0 +1,1 @@
+https://docs.microsoft.com/pt-br/azure/active-directory/develop/tutorial-v2-angular-auth-code
